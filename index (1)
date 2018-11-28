@@ -48,15 +48,14 @@
     }
   </style>
 </head>
-<title>index</title>
 <body>
   <header>
     <img src="photo-1484544808355-8ec84e534d75.jpg">
     <h1>Ons reisblog</h1>
     <ul>
-      <li><a href="../Documents/reizen.html">Reizen</a></li>
-      <li><a href="mooisteplekken.html">Mooiste plekken</a></li>
-      <li><a href="../Documents/Afbeeldingenvoorinspiratie.html">Afbeeeldingen voor inspiratie</a></li>
+      <li><a href="#"> Reizen</a></li>
+      <li><a href="#">Mooiste plekken</a></li>
+      <li><a href="#">Afbeeeldingen voor inspiratie</a></li>
     </ul>
   </header>
   <article>
